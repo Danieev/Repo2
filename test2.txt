@@ -3,9 +3,10 @@
 
  Directory of C:\Users\danie\OneDrive\Desktop\MyProject
 
-04/18/2024  04:56 PM    <DIR>          .
-04/18/2024  11:02 AM    <DIR>          ..
-04/18/2024  04:51 PM               367 test1.txt
-04/18/2024  04:56 PM                 0 test2.txt
-               2 File(s)            367 bytes
-               2 Dir(s)  292,213,293,056 bytes free
+04/18/2024  05:23 PM    <DIR>          .
+04/26/2024  02:14 AM    <DIR>          ..
+04/18/2024  05:23 PM                33 index.html
+04/18/2024  05:24 PM                12 test1.txt
+04/28/2024  11:18 PM                 0 test2.txt
+               3 File(s)             45 bytes
+               2 Dir(s)  285,841,211,392 bytes free
