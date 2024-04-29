@@ -1,2 +1,12 @@
-change 1
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is D044-D512
 
+ Directory of C:\Users\danie\OneDrive\Desktop\MyProject
+
+04/28/2024  11:25 PM    <DIR>          .
+04/26/2024  02:14 AM    <DIR>          ..
+04/18/2024  05:23 PM                33 index.html
+04/28/2024  11:30 PM                 0 test1.txt
+04/28/2024  11:25 PM               468 test2.txt
+               3 File(s)            501 bytes
+               2 Dir(s)  285,819,940,864 bytes free
